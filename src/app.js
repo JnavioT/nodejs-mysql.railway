@@ -24,3 +24,5 @@ app.get('/create',async (req, res)=>{
 
 app.listen(PORT)
 console.log('Server on port', PORT);
+
+//probar : nodejs-mysqlrailway-production.up.railway.app
